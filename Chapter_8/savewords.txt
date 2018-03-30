@@ -1,0 +1,4 @@
+YOur should haveno problem recalling wich redirection 
+operator does whta, Jsut remember that each operator points
+in the direction the information flows. Thinks of it as
+a funnel.
